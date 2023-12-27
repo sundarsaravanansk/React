@@ -14,11 +14,11 @@ function App() {
       <Header/>
       <ProductDisplay/>
       <ImageSlider/>
-      <ProductSection/>
+     <ProductSection/>
       <ProductSection1/>
       <ProductSection3/>
-      <ProductionSection2/>
-      <Footer/>
+       <ProductionSection2/>
+      <Footer/> 
     </div>
   );
 }

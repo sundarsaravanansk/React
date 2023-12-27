@@ -27,7 +27,7 @@ const ProductionSection2 = () => {
             <div className='imgs'><img src='productSection2/img-5.jpeg'/><p className='tc'>Men Slim Fit</p><h4>78% Offer</h4></div>
             <div className='imgs'><img src='productSection2/img-6.jpeg'/><p className='tc'>Watches</p><h4>65% Offer</h4></div>
             <div className='imgs'><img src='productSection2/img-7.jpeg'/><p className='tc'>Shoes collection</p><h4>80% Offer</h4></div>
-            <div className='imgs'><img src='productSection2/img-8.jpeg'/><p className='tc'>Camera</p><h4>86% Offer</h4></div>
+            <div className='imgs'><img src='../build\productSection2\img-8.jpeg'/><p className='tc'>Camera</p><h4>86% Offer</h4></div>
             </div>
         </div>
         </div>

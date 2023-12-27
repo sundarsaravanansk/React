@@ -12,7 +12,7 @@ const Header = () => {
     const handleClose = () => setshow(false);
     return (
         <div className='header'>
-        <div className='mx-w df jcsb '>
+        <div className='mx-w df jcsb top'>
             <div className='df'>
                 <div className='navdn'><button variant="primary" onClick={handleShow}> <img src='./icon/nav.svg' className="bar" /></button>
                     <Offcanvas show={show} onHide={handleClose} className="offc">
