@@ -1,0 +1,82 @@
+@media screen and (max-width : 576px) {
+
+    .containdn{
+        display: none;
+    }
+
+}
+
+@media screen and (min-width : 576px) and (max-width : 1000px) {
+    .containdn{
+        display: none;
+    }
+}
+@media screen and (min-width : 1000px) {
+    .container-4 {
+        margin-top: 1rem;
+        padding-top: 1.5rem;
+        border: 1px solid #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    .container-4 .mx-w{
+        max-width: 1500px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    .container-4 ul li .bx{
+        border: 1px solid rgb(218, 206, 206);
+        width: 15rem;
+        height: 15.7rem;
+    }
+    
+    .container-4 .toy-section ul {
+        list-style-type: none;
+        text-align: center;
+    }
+    .container-4 .toy-section ul img {
+        width: 10.7rem;
+        height: 10.9rem;
+    }
+    
+    .container-4 .toy-section ul h5 {
+        font-size: 1rem;
+        padding-top: 1rem;
+    }
+    
+
+    
+    .container-4 .toy-section ul h4 {
+        padding-top: rem;
+        color: #388e3c;
+        font-weight: 400;
+        font-size: 1rem;
+    }
+    .container-4 .df{
+        display: flex;
+        overflow: auto;
+    }
+    .container-4 .df::-webkit-scrollbar{
+        width: 0;
+    }
+    .container-4 .jcsb{
+        justify-content: space-between;
+    }
+    
+    .zoom,
+    .zoom {
+        transition: transform .1s;
+    }
+    
+    .zoom:hover,
+    .zoom:hover {
+        transform: scale(1.01);
+    }
+
+
+    .container-4 .beaty{
+        font-size: 1.3rem;
+        margin-bottom: .9rem;
+        font-weight: 600;
+    }
+}

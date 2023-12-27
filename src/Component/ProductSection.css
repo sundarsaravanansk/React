@@ -1,0 +1,49 @@
+
+@media screen and  (max-width : 576px){
+    .productsection{
+        padding-top: 0rem;
+        margin-bottom: 1px;
+        padding-bottom: 0px;
+        border-radius: 2px; 
+        width: 100%;
+}
+    .productsection .df{
+        display: flex;
+        overflow: auto;
+        
+    }
+    .productsection .df::-webkit-scrollbar{
+        width: 0;
+    }
+    
+    .productsection .jcsb{
+        justify-content: space-between;
+    }
+    
+    .productsection .mx-w{
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+    
+    .productsection img{
+        width: 8rem;
+        height: 7.5rem;
+    }
+    
+   
+}
+
+@media screen and (min-width : 576px) and (max-width : 1000px){
+   .prodn{
+    display: none;
+   }
+   
+}
+
+@media screen and (min-width : 1000px){
+    .prodn{
+        display: none;
+       }
+}
