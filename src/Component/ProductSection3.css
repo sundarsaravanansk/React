@@ -85,7 +85,7 @@
     .grid-item{
         width: 100%;
         margin: .2rem;
-    border-radius: 1px;
+
     }
     .grid .tc{
         text-align: center;
@@ -95,7 +95,7 @@
        margin: .4rem .3rem;
        border: 1px solid rgb(233, 227, 227);
         background-color: #fff;
-        border-radius: 10px;
+    
       text-align: center;
      }
      .grid .grid-item img{
@@ -145,7 +145,7 @@
     .grid-item{
         width: 100%;
         margin: .2rem;
-    border-radius: 1px;
+   
     }
     .grid .tc{
         text-align: center;
@@ -155,7 +155,7 @@
        margin: .4rem .3rem;
        border: 1px solid rgb(233, 227, 227);
         background-color: #fff;
-        border-radius: 10px;
+       
       text-align: center;
      }
      .grid .grid-item img{
