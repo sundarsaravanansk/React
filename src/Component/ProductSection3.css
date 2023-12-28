@@ -159,7 +159,8 @@
       text-align: center;
      }
      .grid .grid-item img{
-        width: 97%;
+        width: 100%;
+        overflow: hidden;
          height: 10rem;
        padding-top: .1rem;
        

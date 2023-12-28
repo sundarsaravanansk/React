@@ -71,6 +71,7 @@
     }
     .consec2 .lrgimg img{
         width: 100%;
+
         height: 34.8rem;
     }
     .consec2 h3{
@@ -148,6 +149,7 @@
     }
     .consec2 .lrgimg img{
         width: 100%;
+        overflow: hidden;
         height: 29rem;
     }
     .consec2 h3{
@@ -218,13 +220,15 @@
     }
     .consec2 .lrgimg {
         width: 100%;
+        overflow: hidden;
         height: 28rem;
         text-align: center;
         
      
     }
     .consec2 .lrgimg img{
-        width: 90%;
+        width: 100%;
+        overflow: hidden;
         height: 27rem;
     }
     .consec2 h3{
