@@ -192,8 +192,9 @@
       text-align: center;
      }
      .consec2 .grid .grid-item img{
-        width: 97%;
-        height: 10rem;
+        width: 100%;
+        overflow: hidden;
+         height: 10rem;
     
        
      }
@@ -227,9 +228,9 @@
      
     }
     .consec2 .lrgimg img{
-        width: 100%;
+        width: 90%;
         overflow: hidden;
-        height: 27rem;
+        height: 37rem;
     }
     .consec2 h3{
         margin-top: 1rem;
